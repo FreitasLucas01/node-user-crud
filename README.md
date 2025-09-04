@@ -29,13 +29,14 @@ O projeto foi criado como prática de back-end e pode servir como base para aute
 
 ## 📂 Estrutura do Projeto
 
+```text
 src/
-├── api/ # Controllers (recebem req/res e chamam os services)
-├── services/ # Lógica de negócio (comunicação com os models)
-├── model/ # Definição das tabelas Sequelize
-├── routes/ # Rotas Express
+├── api/        # Controllers (recebem req/res e chamam os services)
+├── services/   # Lógica de negócio (comunicação com os models)
+├── model/      # Definição das tabelas Sequelize
+├── routes/     # Rotas Express
 ├── database.js # Configuração do Sequelize e conexão
-└── index.js # Ponto de entrada da aplicação
+└── index.js    # Ponto de entrada da aplicação
 
 ---
 
