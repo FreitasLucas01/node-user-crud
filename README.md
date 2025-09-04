@@ -27,6 +27,7 @@ O projeto foi criado como prática de back-end e pode servir como base para aute
 
 ---
 
+```markdown
 ## 📂 Estrutura do Projeto
 
 ```text
